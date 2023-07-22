@@ -125,15 +125,18 @@ To determine if the MITM attack was successful, run 'arp -a' on the target machi
 
 ![ARPSpoofed](https://github.com/albertdiaz13/Python-ARP-Spoof-Detector/assets/18507384/c6c5f5e4-8c55-4cbe-bba1-07f47446c0f4)
 
-### Program Output
+## Program Output
 
 Once we confirm the host is compromised, run the Python script and open the output log file. 
+
 `Scanning...
 Finished scanning
 Generating logs...
 The event is logged in log.txt`
 
 `Process finished with exit code 0`
+
+### Log file:
 
 ![Arp Spoofed!](https://github.com/albertdiaz13/Python-ARP-Spoof-Detector/assets/18507384/9989ecd2-b5bd-4520-a73c-58aa7c5b18e0)
 
