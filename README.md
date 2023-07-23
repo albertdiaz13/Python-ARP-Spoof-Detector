@@ -128,10 +128,13 @@ To determine if the MITM attack was successful, run 'arp -a' on the target machi
 
 Once we confirm the host is compromised, run the Python script and open the output log file. 
 
-`Scanning...
-Finished scanning
-Generating logs...
-The event is logged in log.txt`
+`Scanning...`
+
+`Finished scanning`
+
+`Generating logs...`
+
+`The event is logged in log.txt`
 
 `Process finished with exit code 0`
 
