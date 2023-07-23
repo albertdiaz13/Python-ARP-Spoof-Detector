@@ -1,7 +1,7 @@
 # Python-ARP-Spoof-Detector
 ### A company suspects an On-Path attack is under way.
 
-- Create a Python program that verifies active ARP Spoofing attacks on host machines.
+Create a Python program that verifies active ARP Spoofing attacks on host machines.
 
 ## [ARP Tables & Spoofing](https://www.cisco.com/assets/sol/sb/Switches_Emulators_v2_2_015/help/nk_configuring_ip_information19.html)
 
