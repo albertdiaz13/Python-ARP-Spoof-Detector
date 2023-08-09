@@ -3,7 +3,9 @@
 
 Create a Python program that verifies active ARP Spoofing attacks on host machines.
 
-## [Man-in-the-Middle Attacks: Everything You Need to Know](https://vpnoverview.com/internet-safety/cybercrime/man-in-the-middle-attacks/)
+## [Man-in-the-Middle Attacks](https://vpnoverview.com/internet-safety/cybercrime/man-in-the-middle-attacks/)
+
+The goal of a man-in-the-middle attack (also known as “MITM attack“) is to intercept your personal information, such as account login credentials, personal financial data, or credit card numbers. MITM hackers and attackers do this by wedging themselves between two parties online and intercepting and decrypting data.
 
 ## [ARP Tables & Spoofing](https://www.cisco.com/assets/sol/sb/Switches_Emulators_v2_2_015/help/nk_configuring_ip_information19.html)
 
